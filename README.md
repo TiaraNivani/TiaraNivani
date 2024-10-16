@@ -9,11 +9,12 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 
 ### My experience:
 
-#### Languages
+#### Languages (Ordered by Experience)
 
-![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
 ![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
-
+![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
+![Bash](https://img.shields.io/badge/bash--olive?style=for-the-badge&logo=GNUbash&logoColor=olive)
+![C](https://img.shields.io/badge/c--blue?style=for-the-badge&logo=c&logoColor=blue)
 
 #### QA & Testing:
 
@@ -21,10 +22,16 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 
 #### Build tools:
 
-![Setuptools](https://img.shields.io/badge/setuptools--yellow?style=for-the-badge&logo=pypi&logoColor=yellow)
 ![Cargo](https://img.shields.io/badge/cargo--orange?style=for-the-badge&logo=rust&logoColor=orange)
 ![OpenBuildService](https://img.shields.io/badge/open_build_service--green?style=for-the-badge)
+![Setuptools](https://img.shields.io/badge/setuptools--yellow?style=for-the-badge&logo=pypi&logoColor=yellow)
 ![Make](https://img.shields.io/badge/make--red?style=for-the-badge&logo=make&logoColor=red)
+
+#### Other technologies:
+
+![Docker](https://img.shields.io/badge/docker--cyan?style=for-the-badge&logo=docker&logoColor=cyan)
+![Git](https://img.shields.io/badge/Git--orange?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub CI/CD](https://img.shields.io/badge/github_CI\/CD--white?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### My GitHub Stats:
 
