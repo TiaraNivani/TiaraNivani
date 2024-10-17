@@ -7,6 +7,11 @@ I started programming in Uni, and am currently mostly using Rust and Python.
 Lately, I have found a lot of joy working on more low-level software, to this end I am planning to add C to my stack.
 (Third time is the charm ^^)
 
+### Current projects:
+
+[![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)
+](https://github.com/The-Nazara-Project/Nazara) A Rust application to create NetBox entries for machines automatically.
+
 ### My experience:
 
 #### Languages (Ordered by Experience)
