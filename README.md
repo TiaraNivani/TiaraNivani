@@ -9,8 +9,9 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 
 ### Current projects:
 
-[![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)
-](https://github.com/The-Nazara-Project/Nazara) A Rust application to create NetBox entries for machines automatically.
+|Project|Description|Position|
+|------------|-----------|--------|
+|[![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)](https://github.com/The-Nazara-Project/Nazara)|A Rust application to create NetBox entries for machines automatically|Project Owner/Lead Developer|
 
 ### My experience:
 
