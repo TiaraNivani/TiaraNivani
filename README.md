@@ -21,6 +21,7 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 ![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
 ![Bash](https://img.shields.io/badge/bash--olive?style=for-the-badge&logo=GNUbash&logoColor=olive)
 ![C](https://img.shields.io/badge/c--blue?style=for-the-badge&logo=c&logoColor=blue)
+![Lua](https://img.shields.io/badge/lua--darkblue?style=for-the-badge&logo=lua&logoColor=darkblue)
 
 #### QA & Testing:
 
