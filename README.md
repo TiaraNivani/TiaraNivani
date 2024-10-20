@@ -1,3 +1,8 @@
+<h1 align="center">
+  𝑴𝒆𝒐𝒘. ฅ(•- •マ
+</h1>
+
+
 ## Hey! I'm Tiara, but you can call me Tia.
 
 I'm a junior Rust and Python developer with a couple years of experience under my belt working on various smaller open source project.
@@ -48,3 +53,5 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiaraNivani&theme=transparent" />
 
 See you around!
+
+<p align="right">ฅ^>⩊<^ ฅ</p>
