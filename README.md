@@ -3,7 +3,7 @@
 </h1>
 
 
-## Hey! I'm Tiara, but you can call me Tia.
+## Hey! I'm Tiara, but you can call me Tia. ฅ^ >ヮ<^₎
 
 I'm a junior Rust and Python developer with a couple years of experience under my belt working on various smaller open source project.
 
