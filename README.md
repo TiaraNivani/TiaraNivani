@@ -5,7 +5,7 @@
 
 ## Hejjjjj~! I'm Tiara, but you can call me Tia. ฅ^ >ヮ<^₎
 
-I'm a junior Rust and Python developer with a couple years of experience under my belt working on various smaller open source project.
+I'm a junior Rust and Python developer with a couple years of experience under my belt working on various smaller open source projects.
 
 I started programming in Uni, and am currently mostly using Rust and Python.
 
