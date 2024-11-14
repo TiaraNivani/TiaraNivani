@@ -48,9 +48,9 @@ Lately, I have found a lot of joy working on more low-level software, to this en
 
 ### My GitHub Stats:
 
-[![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiaraNivani&&hide_border=true&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=BytePaws&&hide_border=true&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiaraNivani&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BytePaws&theme=transparent" />
 
 See you around!
 
